@@ -1,5 +1,5 @@
 # Pyhton 
-## Miuul DSML Bootcamp Python Alıştırmalar Ödevi
-- Veri yapıları,döngüler,if else yapıları gibi temel kavramlar üzerinde çalıştım
+## Miuul DSML Bootcamp Python Homework
+- I have worked on basic concepts such as data structures,loops, if else structures
 
 
