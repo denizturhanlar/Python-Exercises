@@ -8,15 +8,25 @@ Python is a high-level, general-purpose programming language. Python is dynamica
 # Python Exercises Tasks
 ## TASK 1: Examine the types of data structures.
 x = 8
+
 y = 3.2
+
 z = 8j + 18
+
 a = "Hello World"
+
 b = True
+
 c = 23 < 22
+
 l = [1, 2, 3, 4, "String", 3.2, False]
+
 d = {"Name": "Jake", "Age": [27, 56], "Adress": "Downtown"}
+
 t = ("Machine Learning", "Data Science")
+
 s = {"Python", "Machine Learning", "Data Science", "Python"}
+
 
 ## TASK 2: Convert all letters of the given string expression to uppercase. Put space instead of commas and periods, separate them word by word.
 text = "The goal is to turn data into information, and information into insight."
@@ -44,6 +54,7 @@ l = [2, 13, 18, 93, 22]
 ## TASK 6: In the list given below are the names of the students who won degrees in engineering and medicine faculties.
 While the first three students represent the success order of the engineering faculty, the last three students belong to the medical faculty student rank, respectively.
 Print the student's degrees specific to the faculty using Enumarate.
+
 students = ["Ali", "Veli", "Ayşe", "Talat", "Zeynep", "Ece"]
 
 ## TASK 7: 3 lists are given below. In the lists, there is a course code, credit and quota information, respectively. Print course information using zip.
