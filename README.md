@@ -49,10 +49,14 @@ Step 6: Re-add element "N" to the eighth index.
 ## TASK 4: Apply the following steps to the given dictionary structure.
 dict = {'Christian': ["America", 18], 'Daisy': ["England", 12], 'Antonio': ["Spain", 22], 'Dante': ["Italy", 25]}
 
-- Step 1: Access the key values.
-- Step 2: Access the values.
-- Step 3: Update the value 12 of the Daisy key to 13.
-- Step 4: Add a new value whose key value is Ahmet value [Turkey,24].
+Step 1: Access the key values.
+
+Step 2: Access the values.
+
+Step 3: Update the value 12 of the Daisy key to 13.
+
+Step 4: Add a new value whose key value is Ahmet value [Turkey,24].
+
 
 ## TASK 5: Write a function that takes a list as an argument, assigns the odd and even numbers in the list to separate lists, and returns these lists.
 l = [2, 13, 18, 93, 22]
