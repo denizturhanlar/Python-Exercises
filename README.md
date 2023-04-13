@@ -6,7 +6,7 @@ Python is a high-level, general-purpose programming language. Python is dynamica
 
 
 # Python Exercises Tasks
-##TASK 1: Examine the types of data structures.
+## TASK 1: Examine the types of data structures.
 x = 8
 y = 3.2
 z = 8j + 18
@@ -18,7 +18,7 @@ d = {"Name": "Jake", "Age": [27, 56], "Adress": "Downtown"}
 t = ("Machine Learning", "Data Science")
 s = {"Python", "Machine Learning", "Data Science", "Python"}
 
-- TASK 2: Convert all letters of the given string expression to uppercase. Put space instead of commas and periods, separate them word by word.
+# TASK 2: Convert all letters of the given string expression to uppercase. Put space instead of commas and periods, separate them word by word.
 text = "The goal is to turn data into information, and information into insight."
 
 - TASK 3: Do the following tasks for the given list.
