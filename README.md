@@ -5,8 +5,8 @@
 Python is a high-level, general-purpose programming language. Python is dynamically typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming.
 
 
-#Python Exercises Tasks
-- TASK 1: Examine the types of data structures.
+# Python Exercises Tasks
+##TASK 1: Examine the types of data structures.
 x = 8
 y = 3.2
 z = 8j + 18
